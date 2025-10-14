@@ -12,3 +12,8 @@ print(_age)
 _age = _age + 1  # age will be incremented by 1
 print(_age)
 
+a = 8
+b = 7
+sum = a + b
+print(sum)
+
