@@ -11,4 +11,4 @@ print(radius)
 #area = 3.14987654 * pow(radius, 2)
 area = math.pi * radius ** 2
 print("area of the circle is: ", area)
-print(f"Area of the circle is: {area: .2f}")
+print(f"Area of the circle is: {area: .2f}") # this will print only 2 numbers after decimal
