@@ -11,3 +11,7 @@ class Cal:
         return self.a - self.b
 
 
+obj_ref = Cal(2,3)
+print(obj_ref.display_sum())
+print(obj_ref.display_sub())
+print(obj_ref.display_sum())
