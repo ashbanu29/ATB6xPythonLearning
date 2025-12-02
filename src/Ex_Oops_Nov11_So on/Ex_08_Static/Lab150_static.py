@@ -10,6 +10,7 @@ class TestCounter:
 
 t1 = TestCounter()
 t2 = TestCounter()
+t3 = TestCounter()
 print(TestCounter.count)
 
 
